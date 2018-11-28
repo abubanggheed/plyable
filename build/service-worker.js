@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "http://localhost:3000/precache-manifest.a09b92859ed99893aa839081f7bdfc79.js"
+  "https://plyable-abubanggheed.herokuapp.com/precache-manifest.47d4d1a539f42c27e648261f7ba28d3a.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("http://localhost:3000/index.html", {
+workbox.routing.registerNavigationRoute("https://plyable-abubanggheed.herokuapp.com/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

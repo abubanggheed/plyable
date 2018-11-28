@@ -1,14 +1,14 @@
 {
-  "main.css": "http://localhost:3000/static/css/main.dc980bd0.chunk.css",
-  "main.js": "http://localhost:3000/static/js/main.75995406.chunk.js",
-  "main.js.map": "http://localhost:3000/static/js/main.75995406.chunk.js.map",
-  "static/js/1.787af5cb.chunk.js": "http://localhost:3000/static/js/1.787af5cb.chunk.js",
-  "static/js/1.787af5cb.chunk.js.map": "http://localhost:3000/static/js/1.787af5cb.chunk.js.map",
-  "runtime~main.js": "http://localhost:3000/static/js/runtime~main.b2fc261b.js",
-  "runtime~main.js.map": "http://localhost:3000/static/js/runtime~main.b2fc261b.js.map",
-  "static/media/Logo.png": "http://localhost:3000/static/media/Logo.261b1894.png",
-  "static/css/main.dc980bd0.chunk.css.map": "http://localhost:3000/static/css/main.dc980bd0.chunk.css.map",
-  "index.html": "http://localhost:3000/index.html",
-  "precache-manifest.a09b92859ed99893aa839081f7bdfc79.js": "http://localhost:3000/precache-manifest.a09b92859ed99893aa839081f7bdfc79.js",
-  "service-worker.js": "http://localhost:3000/service-worker.js"
+  "main.css": "https://plyable-abubanggheed.herokuapp.com/static/css/main.335cb09c.chunk.css",
+  "main.js": "https://plyable-abubanggheed.herokuapp.com/static/js/main.59506026.chunk.js",
+  "main.js.map": "https://plyable-abubanggheed.herokuapp.com/static/js/main.59506026.chunk.js.map",
+  "static/js/1.1b152bdc.chunk.js": "https://plyable-abubanggheed.herokuapp.com/static/js/1.1b152bdc.chunk.js",
+  "static/js/1.1b152bdc.chunk.js.map": "https://plyable-abubanggheed.herokuapp.com/static/js/1.1b152bdc.chunk.js.map",
+  "runtime~main.js": "https://plyable-abubanggheed.herokuapp.com/static/js/runtime~main.a69263fb.js",
+  "runtime~main.js.map": "https://plyable-abubanggheed.herokuapp.com/static/js/runtime~main.a69263fb.js.map",
+  "static/media/Logo.png": "https://plyable-abubanggheed.herokuapp.com/static/media/Logo.261b1894.png",
+  "static/css/main.335cb09c.chunk.css.map": "https://plyable-abubanggheed.herokuapp.com/static/css/main.335cb09c.chunk.css.map",
+  "index.html": "https://plyable-abubanggheed.herokuapp.com/index.html",
+  "precache-manifest.47d4d1a539f42c27e648261f7ba28d3a.js": "https://plyable-abubanggheed.herokuapp.com/precache-manifest.47d4d1a539f42c27e648261f7ba28d3a.js",
+  "service-worker.js": "https://plyable-abubanggheed.herokuapp.com/service-worker.js"
 }
